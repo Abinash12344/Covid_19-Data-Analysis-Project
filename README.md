@@ -27,3 +27,40 @@ deriving insights on confirmed cases, deaths, recoveries, trends, and continent-
 - Removing duplicates  
 - Creating primary & foreign keys  
 - Joining factual and dimensional tables 
+
+## 🐍 2. Python — Exploratory Data Analysis (EDA)
+
+### ✔️ Libraries Used
+- `pandas`  
+- `matplotlib`  
+- `seaborn`  
+- `sqlalchemy`
+
+### ✔️ Key Analysis Performed
+- Country-level and continent-level case comparison  
+- KPI generation:  
+  - Death Rate (%)  
+  - Recovery Rate (%)  
+  - Cases per Million  
+  - Deaths per Million  
+- Global daily trend analysis  
+- Visualization using Matplotlib & Seaborn  
+
+### 📈 Sample Visualizations
+- Total Cases by Continent  
+- Death/Recovery Rate Analysis  
+- Top 10 Countries by Confirmed Cases  
+- Daily Global Trend Line  
+- Scatter Plot (Cases vs. Deaths)
+
+## 📊 3. Power BI — Interactive Dashboard
+
+The final dashboard was built to give Stakeholders a **business-friendly** overview.
+
+### ✔️ Dashboard Features
+- KPI Cards: Confirmed Cases, Deaths, Recoveries, Death Rate%, Recovery Rate%  
+- Continent-wise Comparison (Bar / Column Charts)  
+- Country-wise Cases and Performance Breakdown  
+- Daily Trend Line Visualization  
+- Slicers for Continent, Country, and Date  
+- Clean, professional layout with business insights.
