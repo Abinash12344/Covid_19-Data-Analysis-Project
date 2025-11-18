@@ -64,3 +64,5 @@ The final dashboard was built to give Stakeholders a **business-friendly** overv
 - Daily Trend Line Visualization  
 - Slicers for Continent, Country, and Date  
 - Clean, professional layout with business insights.
+
+<img width="1317" height="739" alt="Screenshot 2025-11-13 112237" src="https://github.com/user-attachments/assets/b467eed5-7241-498f-ad27-9ea2be51fe12" />
